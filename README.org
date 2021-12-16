@@ -1,10 +1,10 @@
 * Fall 2021 - 127 - Final Exam - Python - in class
 
-* Last Name: 
+* Last Name: Zhou
 
-* First Name: 
+* First Name: John
 
-* GitHub username: 
+* GitHub username: johnzhou1210
 
 * Notes:
 
